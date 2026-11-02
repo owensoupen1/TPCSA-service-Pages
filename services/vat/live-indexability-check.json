@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "x_robots_tag": null,
+  "robots_meta": [
+    "<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large\"/>"
+  ],
+  "canonical": [
+    "<link rel=\"canonical\" href=\"https://tpcsa.co.za/npo-consulting/vat-services-for-npos/\" />"
+  ],
+  "googlebot_allowed": true,
+  "in_page_sitemap": true,
+  "new_page_public": true,
+  "css_formatting_correct": true
+}
