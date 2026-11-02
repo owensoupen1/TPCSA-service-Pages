@@ -1,0 +1,15 @@
+{
+  "columns": [
+    5,
+    4
+  ],
+  "faqs": 10,
+  "hero": "rgb(20, 20, 46)",
+  "logo": {
+    "width": 308.796875,
+    "x": 25
+  },
+  "overflow": false,
+  "styled": true,
+  "url": "https://tpcsa.co.za/npo-consulting/audit-services-for-npos/"
+}
