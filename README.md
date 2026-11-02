@@ -8,7 +8,7 @@ Approved HTML and CSS for TPCSA service pages. Each completed page has its own f
 | VAT Services for NPOs | [services/vat](services/vat/) | Live |
 | Historical VAT Reviews and Recoveries for NPOs | [services/historical-vat](services/historical-vat/) | Live |
 | Tax Services for NPOs | [services/tax](services/tax/) | Live |
-| NPO Legal Structuring | — | Pending |
+| NPO Legal Structuring | [services/legal-structuring](services/legal-structuring/) | Live |
 | Risk Management for NPOs | — | Pending |
 | NPO Advisory and Sector Support | — | Pending |
 | NPO Training and Development | — | Pending |
