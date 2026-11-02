@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "x_robots_tag": null,
+  "robots_meta": [
+    "<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large\"/>"
+  ],
+  "canonical": [
+    "<link rel=\"canonical\" href=\"https://tpcsa.co.za/npo-consulting/npo-accountants/\" />"
+  ],
+  "googlebot_allowed": true,
+  "new_page_public": true,
+  "robots_txt": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://tpcsa.co.za/sitemap_index.xml\n",
+  "page_sitemaps": [
+    {
+      "url": "https://tpcsa.co.za/page-sitemap.xml",
+      "contains_page": true
+    }
+  ],
+  "css_formatting_correct": true
+}
