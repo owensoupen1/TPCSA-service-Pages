@@ -6,9 +6,12 @@
   "inbox_receipt": "not independently confirmed",
   "pdf_download": "passed",
   "job_reference": "TPCSA-AUDIT-9094",
-  "recipient": "farida@tpcsa.co.za",
+  "recipient": "owen@tpcsa.co.za",
   "mobile_content_width": 375,
   "mobile_viewport": 390,
   "visible_h1": 1,
-  "index_follow": true
+  "index_follow": true,
+  "recipient_change_requires": "explicit Owen approval",
+  "recaptcha_repair": "Google alternate endpoint, scoped to page 9094; no protection bypass",
+  "post_repair_test_status": "sent"
 }

@@ -6,7 +6,7 @@ Page ID 9094. Contact Form 7 ID 9142, shortcode 48190fc.
 
 ## Application routing
 
-Recipient: farida@tpcsa.co.za
+Current testing recipient: owen@tpcsa.co.za. DO NOT change until Owen explicitly approves the complete setup. Intended production recipient after approval: farida@tpcsa.co.za.
 Job reference: TPCSA-AUDIT-9094
 Email subject: [TPCSA-AUDIT-9094] Audit Senior / Audit Supervisor — [your-name] [your-surname]
 Reply-To: [your-email]
@@ -23,3 +23,7 @@ Original JD paragraphs and bullet points retained. Full text visible without acc
 Edit CF7 form 9142 for recipient, fields, mail body and attachment mapping. Do not edit a shared contact form. For a new role, duplicate this form and give the role its own fixed email subject/reference. Close applications by removing the form and replacing it with a visible closed notice; preserve the JD as appropriate.
 
 Source: wordpress-paste.html. Preserve the HTML block comments. CSS is scoped to .tpc-vacancy and page 9094. The PDF is stored in the WordPress media library and this folder. No article styling was changed.
+
+## Send error repaired, 3 November 2026
+
+Flamingo submission 9151 showed Google reCAPTCHA browser-error, resulting in spam rejection before email delivery. Enabled WPCode snippet 9157 using the official wpcf7_use_recaptcha_net filter for page 9094 only. The same Google reCAPTCHA protection and threshold remain active. Post-repair test with CV returned status sent, addressed to Owen. Inbox arrival is not independently verified. Flamingo name/subject settings now identify the applicant and job reference.
