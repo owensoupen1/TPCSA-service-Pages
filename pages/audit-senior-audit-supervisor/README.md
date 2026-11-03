@@ -1,0 +1,25 @@
+# Audit Senior / Audit Supervisor application page
+
+Live: https://tpcsa.co.za/careers/audit-senior-audit-supervisor/
+
+Page ID 9094. Contact Form 7 ID 9142, shortcode 48190fc.
+
+## Application routing
+
+Recipient: farida@tpcsa.co.za
+Job reference: TPCSA-AUDIT-9094
+Email subject: [TPCSA-AUDIT-9094] Audit Senior / Audit Supervisor — [your-name] [your-surname]
+Reply-To: [your-email]
+Attachments: [applicant-cv], [applicant-cover-letter], [applicant-portfolio]
+
+Name, surname, email and cellphone are required. CV is required; cover letter and portfolio are optional. PDF, DOC and DOCX accepted, with limits of 4 MB, 4 MB and 8 MB respectively. The email body hardcodes the role title, reference and location and includes applicant details, source URL and submission date/time.
+
+## Verification
+
+Original JD paragraphs and bullet points retained. Full text visible without accordions. Desktop and 390px mobile layouts inspected; vacancy content fits mobile width. Native header/footer retained. Required-field validation tested. Three file selectors tested with labelled synthetic PDFs. Test application returned CF7 status sent and the role-specific confirmation. Farida inbox receipt cannot be independently confirmed from this session. PDF download tested successfully. One visible H1, self canonical and index/follow verified.
+
+## Maintenance
+
+Edit CF7 form 9142 for recipient, fields, mail body and attachment mapping. Do not edit a shared contact form. For a new role, duplicate this form and give the role its own fixed email subject/reference. Close applications by removing the form and replacing it with a visible closed notice; preserve the JD as appropriate.
+
+Source: wordpress-paste.html. Preserve the HTML block comments. CSS is scoped to .tpc-vacancy and page 9094. The PDF is stored in the WordPress media library and this folder. No article styling was changed.

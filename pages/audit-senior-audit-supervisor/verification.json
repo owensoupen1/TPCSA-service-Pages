@@ -1,0 +1,14 @@
+{
+  "required_validation": "passed: five missing-field messages",
+  "file_selectors": "passed: 3 PDFs selected",
+  "test_submission_status": "sent",
+  "test_submission_name": "TEST SYSTEM CHECK DO NOT PROCESS",
+  "inbox_receipt": "not independently confirmed",
+  "pdf_download": "passed",
+  "job_reference": "TPCSA-AUDIT-9094",
+  "recipient": "farida@tpcsa.co.za",
+  "mobile_content_width": 375,
+  "mobile_viewport": 390,
+  "visible_h1": 1,
+  "index_follow": true
+}
