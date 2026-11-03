@@ -12,11 +12,11 @@ Email subject: [TPCSA-AUDIT-9094] Audit Senior / Audit Supervisor — [your-name
 Reply-To: [your-email]
 Attachments: [applicant-cv], [applicant-cover-letter], [applicant-portfolio]
 
-Name, surname, email and cellphone are required. CV is required; cover letter and portfolio are optional. PDF, DOC and DOCX accepted, with limits of 4 MB, 4 MB and 8 MB respectively. The email body hardcodes the role title, reference and location and includes applicant details, source URL and submission date/time.
+Name, surname, email and cellphone are required. CV is required; cover letter and portfolio are optional. CV and cover letter accept PDF, DOC and DOCX, up to 4 MB each. Portfolio/supporting documents accept one combined PDF, up to 8 MB. An i control opens requirements on hover or focus/click, including certified ID copies, certificates and diplomas. The email body hardcodes the role title, reference and location and includes applicant details, source URL and submission date/time.
 
 ## Verification
 
-Original JD paragraphs and bullet points retained. Full text visible without accordions. Desktop and 390px mobile layouts inspected; vacancy content fits mobile width. Native header/footer retained. Required-field validation tested. Three file selectors tested with labelled synthetic PDFs. Test application returned CF7 status sent and the role-specific confirmation. Farida inbox receipt cannot be independently confirmed from this session. PDF download tested successfully. One visible H1, self canonical and index/follow verified.
+Original JD paragraphs and bullet points retained. Full text visible without accordions. Desktop and 390px mobile layouts inspected; vacancy content fits mobile width. Native header/footer retained. Required-field validation tested. Three file selectors tested with labelled synthetic PDFs. Test application returned CF7 status sent and the role-specific confirmation. Owen confirmed Farida received the first test successfully. PDF download tested successfully. One visible H1, self canonical and index/follow verified.
 
 ## Maintenance
 
@@ -27,3 +27,5 @@ Source: wordpress-paste.html. Preserve the HTML block comments. CSS is scoped to
 ## Send error repaired, 3 November 2026
 
 Flamingo submission 9151 showed Google reCAPTCHA browser-error, resulting in spam rejection before email delivery. Enabled WPCode snippet 9157 using the official wpcf7_use_recaptcha_net filter for page 9094 only. The same Google reCAPTCHA protection and threshold remain active. Post-repair test with CV returned status sent, addressed to Owen. Inbox arrival is not independently verified. Flamingo name/subject settings now identify the applicant and job reference.
+
+Supporting-document help verified live by click; PDF-only accept attribute checked. Mobile popup fits the viewport.
